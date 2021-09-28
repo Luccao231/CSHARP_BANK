@@ -1,0 +1,14 @@
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\bin\Debug\netcoreapp3.1\Bank_CSHARP.exe
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\bin\Debug\netcoreapp3.1\Bank_CSHARP.deps.json
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\bin\Debug\netcoreapp3.1\Bank_CSHARP.runtimeconfig.json
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\bin\Debug\netcoreapp3.1\Bank_CSHARP.runtimeconfig.dev.json
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\bin\Debug\netcoreapp3.1\Bank_CSHARP.dll
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\bin\Debug\netcoreapp3.1\Bank_CSHARP.pdb
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\obj\Debug\netcoreapp3.1\Bank_CSHARP.csproj.AssemblyReference.cache
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\obj\Debug\netcoreapp3.1\Bank_CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\obj\Debug\netcoreapp3.1\Bank_CSHARP.AssemblyInfoInputs.cache
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\obj\Debug\netcoreapp3.1\Bank_CSHARP.AssemblyInfo.cs
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\obj\Debug\netcoreapp3.1\Bank_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\obj\Debug\netcoreapp3.1\Bank_CSHARP.dll
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\obj\Debug\netcoreapp3.1\Bank_CSHARP.pdb
+C:\Users\lucca\Documents\C#\Bank_CSHARP\Bank_CSHARP\obj\Debug\netcoreapp3.1\Bank_CSHARP.genruntimeconfig.cache
